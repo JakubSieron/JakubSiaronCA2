@@ -1,0 +1,10 @@
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\bin\JakubWebApplication.dll.config
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\bin\JakubWebApplication.dll
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\bin\JakubWebApplication.pdb
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\bin\JakubWebApplication.xml
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\obj\Debug\JakubWebApplication.Resources.resources
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\obj\Debug\JakubWebApplication.vbproj.GenerateResource.Cache
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\obj\Debug\JakubWebApplication.dll
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\obj\Debug\JakubWebApplication.xml
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\obj\Debug\JakubWebApplication.pdb
+C:\Users\Thyned\Documents\Visual Studio 2013\Projects\JakubWebApplication\JakubWebApplication\obj\Debug\JakubWebApplication.vbprojResolveAssemblyReference.cache
